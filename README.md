@@ -16,5 +16,17 @@ Professional repository for Integrated Audit &amp; GRC (CISA, FCCA, MBA). Includ
 •	[ ] ERP Application Control Review - User Access & SoD (In Progress)
 •	[ ] Business Continuity & Disaster Recovery (BCP/DRP) Assessment Template
 
+
+
+---
+### **Connect with Me**
+I am currently based in **Calgary, Alberta**, and am open to discussing **Internal Audit, IT Audit, and GRC** opportunities within the Financial Services, Energy, Public, and sectors. I have a strong interest in helping organizations navigate OSFI compliance and digital transformation risks.
+
+* **LinkedIn:** [linkedin.com/in/henrietta-onaga/]
+* **Email:** [henriettaonaga@gmail.com]
+* **Credentials:** MBA | FCCA | CISA (Exam Passed)
+
+
+
 Disclaimer
 The contents of this repository, including all workpapers, risk control matrices (RCMs), and audit programs, are for demonstration and educational purposes only. All data, company names, and scenarios presented are strictly simulated and do not represent any real-world organization, past or present. No confidential or proprietary information from previous employers or clients has been used in the creation of these materials.
