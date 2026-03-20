@@ -12,9 +12,12 @@ Professional repository for Integrated Audit &amp; GRC (CISA, FCCA, MBA). Includ
 2.	/Risk-Control-Matrices: End-to-end process maps for Procure-to-Pay and Hire-to-Retire.
 3.	/Data-Analytics: SQL scripts and Excel models for anomalous transaction detection.
 ## Project Roadmap (Current Development)
-•	[ ] Azure Security Baseline Audit Program (Q2 2026)
+•	[x] Azure Security Baseline Audit Program (Live)
+• [x] ITGC: Change Management Framework (Live)
+• [x] Odoo ERP Application Control Review (Live)
 •	[ ] ERP Application Control Review - User Access & SoD (In Progress)
-•	[ ] Business Continuity & Disaster Recovery (BCP/DRP) Assessment Template
+•	[ ] Business Continuity & Disaster Recovery (BCP/DRP) Assessment Template (Target: Q3 2026)
+• [ ] ESG Reporting & Governance Framework (Target: Q3 2026)
 
 
 
@@ -25,6 +28,8 @@ I am currently based in **Calgary, Alberta**, and am open to discussing **Intern
 * **LinkedIn:** [linkedin.com/in/henrietta-onaga/]
 * **Email:** [henriettaonaga@gmail.com]
 * **Credentials:** MBA | FCCA | CISA (Exam Passed)
+
+
 
 
 
