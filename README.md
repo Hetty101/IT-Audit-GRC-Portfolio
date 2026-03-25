@@ -23,7 +23,7 @@ Status of Audit Programs and Frameworks
 | BCP / DRP Assessment | Business Resilience | Target: Q3 2026 |
 | ESG Reporting Framework | Governance (ESG) | Target: Q3 2026 |
 
-### **Audit Documentation & Workpapers (Direct View) **
+### Audit Documentation & Workpapers (Direct View) 
 Technical evidence of control testing and risk assessment for this engagement:
 
 * [WP101: Risk-Control Matrix (RCM)](./Workpapers/ERP-Systems-Audit-Framework/WP101_Risk_Control_Matrix_ERP.pdf)
