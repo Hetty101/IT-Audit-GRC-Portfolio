@@ -11,13 +11,17 @@ Professional repository for Integrated Audit &amp; GRC (CISA, FCCA, MBA). Includ
 1.	/ITGC-Programs: Standardized testing procedures for Change Management and IAM.
 2.	/Risk-Control-Matrices: End-to-end process maps for Procure-to-Pay and Hire-to-Retire.
 3.	/Data-Analytics: SQL scripts and Excel models for anomalous transaction detection.
-## Project Roadmap (Current Development)
-•	[x] Azure Security Baseline Audit Program (Live)
-• [x] ITGC: Change Management Framework (Live)
-• [x] Odoo ERP Application Control Review (Live)
-•	[ ] ERP Application Control Review - User Access & SoD (In Progress)
-•	[ ] Business Continuity & Disaster Recovery (BCP/DRP) Assessment Template (Target: Q3 2026)
-• [ ] ESG Reporting & Governance Framework (Target: Q3 2026)
+## Project Roadmap and Technical Portfolio
+Status of Audit Programs and Frameworks
+
+| Project / Audit Program | Domain | Status |
+| :--- | :--- | :--- |
+| Azure Security Baseline | Cloud Governance | Live |
+| ITGC: Change Management | IT Operations | Live |
+| Odoo ERP Control Review | Application Audit | Live |
+| User Access and SoD Matrix | Identity (IAM) | In Progress |
+| BCP / DRP Assessment | Business Resilience | Target: Q3 2026 |
+| ESG Reporting Framework | Governance (ESG) | Target: Q3 2026 |
 
 ### **Audit Documentation & Workpapers**
 Technical evidence of control testing and risk assessment for this engagement:
