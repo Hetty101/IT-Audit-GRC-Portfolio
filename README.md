@@ -18,7 +18,7 @@ Status of Audit Programs and Frameworks
 | :--- | :--- | :--- |
 | Azure Security Baseline | Cloud Governance | Live |
 | ITGC: Change Management | IT Operations | Live |
-| Odoo ERP Control Review | Application Audit | Live |
+| ERP Control Review | Application Audit | Live |
 | User Access and SoD Matrix | Identity (IAM) | In Progress |
 | BCP / DRP Assessment | Business Resilience | Target: Q3 2026 |
 | ESG Reporting Framework | Governance (ESG) | Target: Q3 2026 |
