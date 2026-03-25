@@ -19,10 +19,15 @@ Professional repository for Integrated Audit &amp; GRC (CISA, FCCA, MBA). Includ
 •	[ ] Business Continuity & Disaster Recovery (BCP/DRP) Assessment Template (Target: Q3 2026)
 • [ ] ESG Reporting & Governance Framework (Target: Q3 2026)
 
+### **Audit Documentation & Workpapers**
+Technical evidence of control testing and risk assessment for this engagement:
 
+* [**WP101: Risk-Control Matrix (RCM)**](./ERP-Systems-Audit-Framework/WP101_Risk_Control_Matrix_ERP.xlsx)
+* [**WP102: Segregation of Duties (SoD) Analysis**](./ERP-Systems-Audit-Framework/WP102_SoD_Conflict_Matrix.xlsx)
+* [**WP103: Audit Memo (Financial Period Integrity)**](./ERP-Systems-Audit-Framework/WP103_Audit_Memo_Change_Management.pdf)
 
 ---
-### **Connect with Me**
+#### **Connect with Me**
 I am currently based in **Calgary, Alberta**, and am open to discussing **Internal Audit, IT Audit, and GRC** opportunities within the Financial Services, Energy, Public, and sectors. I have a strong interest in helping organizations navigate OSFI compliance and digital transformation risks.
 
 * **LinkedIn:** [linkedin.com/in/henrietta-onaga/]
