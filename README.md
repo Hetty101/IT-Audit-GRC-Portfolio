@@ -23,15 +23,12 @@ Status of Audit Programs and Frameworks
 | BCP / DRP Assessment | Business Resilience | Target: Q3 2026 |
 | ESG Reporting Framework | Governance (ESG) | Target: Q3 2026 |
 
-### **Audit Documentation & Workpapers**
+### **Audit Documentation & Workpapers (Direct View) **
 Technical evidence of control testing and risk assessment for this engagement:
 
-* [**WP101: Risk-Control Matrix (RCM)**](./Workpapers/ERP-Systems-Audit-Framework/WP101_Risk_Control_Matrix_ERP.pdf)
-* Workpapers/WP101_Risk_Control_Matrix_ERP.pdf
-* Workpapers/WP101_Risk_Control_Matrix_ERP.pdf
-* [**WP102: Segregation of Duties (SoD) Analysis**](./ERP-Systems-Audit-Framework/WP102_SoD_Conflict_Matrix.xlsx)
-* [**WP103: Audit Memo (Financial Period Integrity)**](./ERP-Systems-Audit-Framework/WP103_Audit_Memo_Change_Management.pdf)
-
+* [WP101: Risk-Control Matrix (RCM)](./Workpapers/ERP-Systems-Audit-Framework/WP101_Risk_Control_Matrix_ERP.pdf)
+* [WP102: Segregation of Duties (SoD) Analysis](./Workpapers/ERP-Systems-Audit-Framework/WP102_SoD_Conflict_Matrix.pdf)
+* [WP103: Audit Memo (Financial Period Integrity)](./Workpapers/ERP-Systems-Audit-Framework/WP103_Audit_Memo_Change_Management.pdf)
 ---
 #### **Connect with Me**
 I am currently based in **Calgary, Alberta**, and am open to discussing **Internal Audit, IT Audit, and GRC** opportunities within the Financial Services, Energy, Public, and sectors. I have a strong interest in helping organizations navigate OSFI compliance and digital transformation risks.
