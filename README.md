@@ -29,7 +29,22 @@ Technical evidence of control testing and risk assessment for this engagement:
 * [WP101: Risk-Control Matrix (RCM)](./Workpapers/ERP-Systems-Audit-Framework/WP101_Risk_Control_Matrix_ERP.pdf)
 * [WP102: Segregation of Duties (SoD) Analysis](./Workpapers/ERP-Systems-Audit-Framework/WP102_SoD_Conflict_Matrix.pdf)
 * [WP103: Audit Memo (Financial Period Integrity)](./Workpapers/ERP-Systems-Audit-Framework/WP103_Audit_Memo_Change_Management.pdf)
----
+
+### Technical Audit Case Studies & Engagements
+
+### **1. IT General Controls (ITGC) & SOX Compliance**
+* [Integrated SOX 404 & ITGC Control Review (Company P)](./Workpapers/itgc-compliance-sox-review/Company_P_Integrated_SOX_ITGC_Review.pdf)
+    * *Focus: Risk & Control Gap Analysis, SDLC Governance Walkthrough, and Change Management Testing.*
+
+### **2. Cybersecurity Governance & Risk Mitigation**
+* [Security Awareness & Phishing Simulation Program (Company M)](./Workpapers/security-awareness-governance/Company_M_Security_Awareness_Program.pdf)
+    * *Focus: Social Engineering Simulation Design and Remediation Strategy.*
+
+### **3. Enterprise Risk Management (ERM)**
+* [Business Process Risk Mapping & Control Matrix (Company G)](./Workpapers/enterprise-risk-assessment/Company_G_Global_Banking_Risk_Matrix.pdf)
+    * *Focus: Inherent Risk Identification and Global Banking Control Gaps.*
+ 
+      
 #### **Connect with Me**
 I am currently based in **Calgary, Alberta**, and am open to discussing **Internal Audit, IT Audit, and GRC** opportunities within the Financial Services, Energy, Public, and sectors. I have a strong interest in helping organizations navigate OSFI compliance and digital transformation risks.
 
